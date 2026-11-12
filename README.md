@@ -19,4 +19,6 @@ Bill of Materials:
 
 . 1 9v battery with adapter 
 
+. Both sides of velcro
+
 . Cardboard or poster boars 
