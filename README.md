@@ -15,7 +15,7 @@ Bill of Materials:
 
 . 1 BBC Micro:bit
 
-. 2 continuous rotation servo motors (they can be bough but mine are modified)
+. 2 continuous rotation servo motors (they can be bought but mine are modified)
 
 . 1 9v battery with adapter 
 
