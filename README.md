@@ -10,3 +10,13 @@ The motors, servos, 9v battery, and microbit battery pack all have hook enclosur
 
 Software:
 Using microbit make code software, one button will turn the wheel opposite directions, the other will reverse that, both buttons make it go foward, and the touch sensing logo makes it go backward. The LEDs also always display a face.
+
+Bill of Materials:
+
+. 1 BBC Micro:bit
+
+. 2 continuous rotation servo motors (they can be bough but mine are modified)
+
+. 1 9v battery with adapter 
+
+. Cardboard or poster boars 
