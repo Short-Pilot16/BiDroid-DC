@@ -1,7 +1,9 @@
 # BiDroid-DC
 Description: 
 A simple 2 wheeled robot powered by a microbit, 8v battery, and two continuous rotation servos. 
+
 IMG_5561.jpeg
+
 Features:
 The DC (direct control) version is driven by the microbit mounted on it. It can go foward and backward and turn in place, it also has facial expressions. 
 
