@@ -18,7 +18,7 @@ Using microbit make code software, one button will turn the wheel opposite direc
 
 Wiring:
 collective ground to GND pin. collective positive (9v wired in) to 3v pin. Yellows to P0&P1
-![image alt](
+![image alt](https://github.com/Short-Pilot16/BiDroid-DC/blob/ca4a0b60133c39cbcab92c696fff1b82dc2165fb/IMG_5553.jpeg)
 ![image alt](https://github.com/Short-Pilot16/BiDroid-DC/blob/13597f0655ede618a62ab4f77ac34c64ed9b08bd/IMG_5563.png)
 
 Bill of Materials:
