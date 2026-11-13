@@ -9,12 +9,12 @@ The DC (direct control) version is driven by the microbit mounted on it. It can 
 
 Hardware:
 The motors, servos, 9v battery, and microbit battery pack all have hook enclosure velcro that corresponds to the velcro on the cardboard plate. The wheels are cardboad discs stapled to RC airplane servo horns.
-![image alt](
+![image alt](https://github.com/Short-Pilot16/BiDroid-DC/blob/9999a7bde16cf229c7777d386e2b9549d09c0b5c/IMG_5554.jpeg)
 ![image alt](https://github.com/Short-Pilot16/BiDroid-DC/blob/cc45fd5110df66853066edcf667162e63d2064db/IMG_5552.jpeg)
 
 Software:
 Using microbit make code software, one button will turn the wheel opposite directions, the other will reverse that, both buttons make it go foward, and the touch sensing logo makes it go backward. The LEDs also always display a face.
-(enter code image)
+![image alt](
 
 Wiring:
 collective ground to GND pin. collective positive (9v wired in) to 3v pin. Yellows to P0&P1
