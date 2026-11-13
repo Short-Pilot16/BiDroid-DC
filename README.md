@@ -1,5 +1,5 @@
 # BiDroid-DC
-(enter final product image)
+![image alt](https://github.com/Short-Pilot16/BiDroid-DC/blob/4a4f1794cda073075fc3098f5980429b13356e91/IMG_5561.jpeg)
 
 Description: 
 A simple 2 wheeled robot powered by a microbit, 8v battery, and two continuous rotation servos. 
